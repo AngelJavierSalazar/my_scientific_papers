@@ -16,3 +16,12 @@ Description: This study presents meta-analytical model test on the accumulated d
 Link: https://www.sciencedirect.com/science/article/abs/pii/S074756321630406X
 
 Keywords: Innovation, Networks, Alliance capability, Firm performance, Meta-analysis, Bootstrapping, Indirect effects.
+
+## The impact assessment of telematics applications in healthcare in Europe. Salazar and Miles, 2003
+
+Description: This paper synthesises the empirical results and the methodological approach of the TAP-ASSESS study. This study was commissioned by the European Commission's Directorate General for Enterprise in 1999 in order to assess the short- and long-term socio-economic impact of the Telematics Applications Programme funded with a budget of 900 million Euros.
+
+Link: https://www.inderscienceonline.com/doi/abs/10.1504/IJHTM.2003.004174
+
+Keywords:  diffusion scenarios, healthcare, impact assessment, telematics applications.
+
