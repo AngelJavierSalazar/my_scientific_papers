@@ -1,13 +1,13 @@
 # my_scientific_papers
 Selected scientific papers and research reports 
 
-## Network analytics in the big graph database era: A research framework and agenda for business and innovation
+## Network analytics in the big graph database era: A research framework and agenda for business and innovation. Salazar and Kunc.
 
 Description: Review of key research areas where new graph database technology can be applied for the analysis of business and innovation using big data sources. The framework integrates elements from graph databases, machine learning and big data management.
 
 Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3964723
 
-## Platform competition: a game theoretic review. Salazar and Lee,
+## Platform competition: a game theoretic review. Salazar and Lee.
 
 Description: This report synthesises a sample of 150 journal and working papers and suggests a new analytical framework to analyse platform competition, drawing from game theoretic analysis and industrial economics.
 
